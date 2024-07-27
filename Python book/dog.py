@@ -22,3 +22,11 @@ print(f"my dog is {my_dog.age} years old")
 
 my_dog.sit()
 my_dog.roll_over()
+
+pats_dog = Dog('Kevin',3)
+print(f"this is pats dog his name is {pats_dog.name}")
+
+print(f"the first dog we made was {my_dog.name}")
+print(f"he is this age: {my_dog.age}")
+print(f"rollover {my_dog.name}")
+my_dog.roll_over
