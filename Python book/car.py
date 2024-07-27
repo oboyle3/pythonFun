@@ -12,3 +12,5 @@ class Car:
     
 pats_car = Car('audi', 'a4', 2024)
 print(pats_car.get_descriptive_name())
+pats_car.odometer_reading = 23
+##pats_car.read_odometer()
