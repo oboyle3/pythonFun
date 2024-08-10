@@ -14,7 +14,7 @@ class Pip:
     
 player1 = Pip('100%', 'Henry Smith', 23, 'Private', 32)
 print(player1.get_all_info())
-player2 = (Pip'98%','Dan Carney',42,'Sargent',92)
+player2 = Pip('98%','Dan Carney',42,'Sargent',92)
 
 #pats_car = Car('audi', 'a4', 2024)
 #print(pats_car.get_descriptive_name())
