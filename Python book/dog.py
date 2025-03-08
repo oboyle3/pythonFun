@@ -15,7 +15,7 @@ class Dog:
 # Create an instance of the Dog class
 my_dog = Dog('Wille', 6)
 
-# Print the dog's name
+# Print the dog name
 print(f"My dog's name is {my_dog.name}")
 print(f"my dog is {my_dog.age} years old")
 
